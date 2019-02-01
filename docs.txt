@@ -1,0 +1,15 @@
+NPM:
+==============
+npm install xxxx
+
+React-CLI
+==============
+
+Install CSS, JS
+=============
+%PUBLIC_URL%/path css or js
+
+JSX:
+============
+display var: {var_name}
+event: {()=>func_name()} => phan nay de xem khi qua redux thi hay su dunjg cai gi nhieu ms quyet dinh dung
